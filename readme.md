@@ -1,4 +1,4 @@
-# Real Estate Finder
+# Real Estate Analytics
 
 #### Description: Data Engineering Project using Python, Apache Spark, SQL, Databricks and Microsoft Power BI
 
