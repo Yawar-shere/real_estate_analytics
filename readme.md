@@ -82,4 +82,11 @@ Hence, in order to make it 24/7 accessible in pbix format, after loading the dat
 Architecture Diagram
 </p>
 
-![alt text](./Architecture Diag.png)
+![alt text](./Architecture_Diag.png)
+
+
+<p align="center">
+BI Dashboard
+</p>
+
+![alt text](./Real_Estate_Analytics.PNG)
